@@ -6,19 +6,19 @@
         },
         {
             "url": "http://tvbox.王二小放牛娃.top/",
-            "name": "👨🏻王二小(主2)"
+            "name": "👨🏻王二小-备用1"
         },
         {
             "url": "http://tv.999888123.xyz/",
-            "name": "👨🏻王二小(主3)"
+            "name": "👨🏻王二小-备用2"
         },
         {
             "url": "https://9280.kstore.space/wex.json",
-            "name": "👨🏻王二小(备1)"
+            "name": "👨🏻王二小-备用3"
         },
         {
             "url": "https://d.kstore.dev/download/9280/wex.json",
-            "name": "👨🏻王二小(备2)"
+            "name": "👨🏻王二小-备用4"
         },
         {
             "url": "http://我不是.摸鱼儿.com",
@@ -36,13 +36,17 @@
             "url": "http://肥猫.com",
             "name": "📚肥猫"
         },
+         {
+            "url": "https://luoqi-tv.netlify.app/study/main.json",
+            "name": "👶洛奇-学习源"
+        },
         {
             "url": "http://miqk.cc/小米/DEMO.json",
             "name": "🍚小米"
         },
         {
             "url": "http://miqk.cc/小米/DEMO.json",
-            "name": "🍚小米(备用)"
+            "name": "🍚小米-备用"
         },
         {
             "url": "http://meowtv.top/tv",
@@ -54,7 +58,7 @@
         },
         {
             "url": "http://miqk.cc/小米/DEMO.json",
-            "name": "🍫巧计(备用)"
+            "name": "🍫巧计-备用"
         },
         {
             "url": "http://tv.laohu.cool/tvbox.json",
@@ -87,14 +91,6 @@
         {
             "url": "http://fmys.top/fmys.json",
             "name": "🐎驸马"
-        },
-        {
-            "url": "https://luoqi-tv.netlify.app/study/main.json",
-            "name": "👶洛奇(儿童源)"
-        },
-        {
-            "url": "https://jihulab.com/huasjf/jf/-/raw/main/xmbjm.json",
-            "name": "🤖儿童源"
         },
         {
             "url": "https://jihulab.com/bhjk1/vip/-/raw/main/vip.json",
