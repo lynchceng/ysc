@@ -9,7 +9,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/兔小贝.json",
+            "ext": "./json/兔小贝.json",
             "jar": "./lib/xyq.jar"
         },
         {
@@ -20,7 +20,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/央视经典.json"
+            "ext": "./json/央视经典.json"
         },
         {
             "key": "幼儿启蒙",
@@ -30,7 +30,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/幼儿启蒙.json"
+            "ext": "./json/幼儿启蒙.json"
         },
         {
             "key": "少儿教育",
@@ -40,7 +40,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/少儿教育.json"
+            "ext": "./json/少儿教育.json"
         },
         {
             "key": "幼儿乐园",
@@ -50,7 +50,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/幼儿乐园.json"
+            "ext": "./json/幼儿乐园.json"
         },
         {
             "key": "儿童",
@@ -60,7 +60,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/幼儿乐园.json"
+            "ext": "./json/幼儿乐园.json"
         },
         {
             "key": "学习",
@@ -70,7 +70,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/学习园地.json"
+            "ext": "./json/学习园地.json"
         },
         {
             "key": "幼小衔接",
@@ -80,7 +80,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/幼小衔接.json"
+            "ext": "./json/幼小衔接.json"
         },
         {
             "key": "小灯塔",
@@ -90,7 +90,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/小灯塔百科.json"
+            "ext": "./json/小灯塔百科.json"
         },
         {
             "key": "小灯塔科学",
@@ -100,7 +100,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/小灯塔科学.json"
+            "ext": "./json/小灯塔科学.json"
         },
         {
             "key": "小灯塔地理",
@@ -110,7 +110,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/小灯塔地理.json"
+            "ext": "./json/小灯塔地理.json"
         },
         {
             "key": "小灯塔国学",
@@ -120,7 +120,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/小灯塔国学.json"
+            "ext": "./json/小灯塔国学.json"
         },
         {
             "key": "小灯塔人文",
@@ -130,7 +130,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/小灯塔人文.json"
+            "ext": "./json/小灯塔人文.json"
         },
         {
             "key": "儿童拼音",
@@ -141,7 +141,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/儿童拼音.json"
+            "ext": "./json/儿童拼音.json"
         },
         {
             "key": "儿童识字",
@@ -152,7 +152,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/儿童识字.json"
+            "ext": "./json/儿童识字.json"
         },
         {
             "key": "儿童英语",
@@ -163,7 +163,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/儿童英语.json"
+            "ext": "./json/儿童英语.json"
         },
         {
             "key": "儿童硬笔",
@@ -174,7 +174,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/儿童硬笔.json"
+            "ext": "./json/儿童硬笔.json"
         },
         {
             "key": "儿童思维",
@@ -185,7 +185,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/儿童思维.json"
+            "ext": "./json/儿童思维.json"
         },
         {
             "key": "儿童口才",
@@ -196,7 +196,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/儿童口才.json"
+            "ext": "./json/儿童口才.json"
         },
         {
             "key": "儿童编程",
@@ -207,7 +207,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/儿童编程.json"
+            "ext": "./json/儿童编程.json"
         },
         {
             "key": "儿童武术",
@@ -218,7 +218,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/儿童武术.json"
+            "ext": "./json/儿童武术.json"
         },
         {
             "key": "兴趣培养",
@@ -229,7 +229,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/兴趣培养.json"
+            "ext": "./json/兴趣培养.json"
         },
         {
             "key": "小学",
@@ -240,7 +240,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/哔哩哔哩小学.json"
+            "ext": "./json/哔哩哔哩小学.json"
         },
         {
             "key": "初中",
@@ -251,7 +251,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/哔哩哔哩初中.json"
+            "ext": "./json/哔哩哔哩初中.json"
         },
         {
             "key": "高中",
@@ -262,7 +262,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/哔哩哔哩高中.json"
+            "ext": "./json/哔哩哔哩高中.json"
         }
     ],
     "parses": [
