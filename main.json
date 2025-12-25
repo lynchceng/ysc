@@ -37,7 +37,7 @@
             "name": "📚肥猫"
         },
          {
-            "url": "https://cdn.jsdelivr.net/gh/lynchceng/ysc/study/main.json",
+            "url": "./study/main.json",
             "name": "👶洛奇-学习源"
         },
         {
